@@ -13,6 +13,7 @@ namespace MVCDemo.Controllers
         public IActionResult Index()
         {
             return View();
+            //testing
         }
 
         public IActionResult About()
